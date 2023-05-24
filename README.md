@@ -1,6 +1,6 @@
 ![ER_diagram for filmorate db intermediate task](filmorate_Osipov_KO.png)
 
-Примеры запросов к базе данных
+# Примеры запросов к базе данных
 получение всех пользователей
 ```sql
 SELECT *
